@@ -1,0 +1,7 @@
+com\clinic\AppointmentApplication.class
+com\clinic\ApiController.class
+com\clinic\AppointmentApplication$1.class
+com\clinic\Appointment.class
+com\clinic\User.class
+com\clinic\AppointmentRepository.class
+com\clinic\UserRepository.class
